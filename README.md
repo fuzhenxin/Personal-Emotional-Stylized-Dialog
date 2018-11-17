@@ -10,12 +10,20 @@
 - Personalized response generation by Dual-learning based domain adaptation, Neural Networks 2018, [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608018300947)
 - Personalizing a Dialogue System with Transfer Reinforcement Learning, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16104/16083)
 - Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018, [[paper]](http://aclweb.org/anthology/P18-1205)
+- Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0595.pdf)
 
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 
-## stylized Dialog
+## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
+
+## Task-oriented Dialog
+- User Modeling for Task Oriented Dialogues, SLT-2018, [[paper]](https://arxiv.org/abs/1811.04369)
+- Learning Personalized End-to-End Goal-Oriented Dialog, AAAI-2019, [[paper]](https://arxiv.org/abs/1811.04604)
+
+## Evaluation
+- Automatic Evaluation of Neural Personality-based Chatbots, INLG-2018, [[paper]](https://arxiv.org/abs/1810.00472)
 
 
 # Copyright 
