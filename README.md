@@ -14,6 +14,7 @@
 
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
+- Creating an Emotion Responsive Dialogue System, UWSpace, [[paper]](https://uwspace.uwaterloo.ca/handle/10012/14026)
 
 ## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
