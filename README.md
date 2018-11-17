@@ -14,7 +14,14 @@
 
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
-- Creating an Emotion Responsive Dialogue System, UWSpace, [[paper]](https://uwspace.uwaterloo.ca/handle/10012/14026)
+
+- Building Emotional Conversation Systems Using Multi-task Seq2Seq Learning, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_51)
+-Babbling - The HIT-SCIR System for Emotional Conversation Generation, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53)
+- Emotional Human Machine Conversation Generation Based on SeqGAN, ACIIAsia-2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8470388)
+- A Syntactically Constrained Bidirectional-Asynchronous Approach for Emotional Conversation Generation, EMNLP-2018, [[paper]](https://arxiv.org/abs/1806.07000)
+- Creating an Emotion Responsive Dialogue System, UWSpace-2018, [[paper]](https://uwspace.uwaterloo.ca/handle/10012/14026)
+- Emotional Human-Machine Conversation Generation Based on Long Short-Term Memory, Cognitive Computation, 2018, [[paper]](https://link.springer.com/article/10.1007/s12559-017-9539-4)
+
 
 ## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
