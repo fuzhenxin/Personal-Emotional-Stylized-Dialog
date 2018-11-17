@@ -1,4 +1,4 @@
-# A Paper List for Personalized, Emotional, and stylized Dialog
+# A Paper List for Personalized, Emotional, and Stylized Dialog
 
 **Keyword:** *personal, persona, style, emotional, sentiment, dialog, conversation, chatbot, generation, Seq2Seq, retrieval, matching*
 
