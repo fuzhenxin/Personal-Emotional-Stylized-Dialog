@@ -1,4 +1,4 @@
-# A Paper List for Personalized, Emotional, and Stylized Dialog
+# A Paper List for Controlled Dialog: Personalized, Emotional, and Stylized Dialog
 
 **Keyword:** *personal, persona, style, emotional, sentiment, dialog, conversation, chatbot, generation, Seq2Seq, retrieval, matching*
 
@@ -32,6 +32,8 @@
 ## Evaluation
 - Automatic Evaluation of Neural Personality-based Chatbots, INLG-2018, [[paper]](https://arxiv.org/abs/1810.00472)
 
+## Others
+- Generating Informative Responses with Controlled Sentence Function, ACL-2018, [[paper]](http://www.aclweb.org/anthology/P18-1139)
 
 # Copyright 
 By Zhenxin Fu (fuzhenxin95@gmail.com) from Peking University.  
