@@ -15,12 +15,13 @@
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 - Building Emotional Conversation Systems Using Multi-task Seq2Seq Learning, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_51)
--Babbling - The HIT-SCIR System for Emotional Conversation Generation, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53)
+- Babbling - The HIT-SCIR System for Emotional Conversation Generation, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53)
 - Emotional Human Machine Conversation Generation Based on SeqGAN, ACIIAsia-2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8470388)
 - A Syntactically Constrained Bidirectional-Asynchronous Approach for Emotional Conversation Generation, EMNLP-2018, [[paper]](https://arxiv.org/abs/1806.07000)
 - Creating an Emotion Responsive Dialogue System, UWSpace-2018, [[paper]](https://uwspace.uwaterloo.ca/handle/10012/14026)
 - Emotional Human-Machine Conversation Generation Based on Long Short-Term Memory, Cognitive Computation, 2018, [[paper]](https://link.springer.com/article/10.1007/s12559-017-9539-4)
-
+- Affective Neural Response Generation, ECIR-2018, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_12)
+- Automatic Dialogue Generation with Expressed Emotions, NAACL-2018, [[paper]](http://aclweb.org/anthology/N18-2008)
 
 ## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
@@ -34,6 +35,7 @@
 
 ## Others
 - Generating Informative Responses with Controlled Sentence Function, ACL-2018, [[paper]](http://www.aclweb.org/anthology/P18-1139)
+- MOJITALK: Generating Emotional Responses at Scale, ACL-2018, [[paper]](http://www.aclweb.org/anthology/P18-1104)
 
 # Copyright 
 By Zhenxin Fu (fuzhenxin95@gmail.com) from Peking University.  
