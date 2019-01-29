@@ -13,7 +13,6 @@
 - Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0595.pdf)
 
 ## Emotional Dialog
-- An Adversarial Approach to High-Quality, Sentiment-Controlled Neural Dialogue Generation, DEEP-DIAL 2019, [[paper]](https://arxiv.org/pdf/1901.07129.pdf)
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 - Building Emotional Conversation Systems Using Multi-task Seq2Seq Learning, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_51)
 - Babbling - The HIT-SCIR System for Emotional Conversation Generation, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53)
@@ -23,6 +22,7 @@
 - Emotional Human-Machine Conversation Generation Based on Long Short-Term Memory, Cognitive Computation, 2018, [[paper]](https://link.springer.com/article/10.1007/s12559-017-9539-4)
 - Affective Neural Response Generation, ECIR-2018, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_12)
 - Automatic Dialogue Generation with Expressed Emotions, NAACL-2018, [[paper]](http://aclweb.org/anthology/N18-2008)
+- An Adversarial Approach to High-Quality, Sentiment-Controlled Neural Dialogue Generation, DEEP-DIAL 2019, [[paper]](https://arxiv.org/pdf/1901.07129.pdf)
 
 ## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
