@@ -13,6 +13,7 @@
 - Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0595.pdf)
 
 ## Emotional Dialog
+- An Adversarial Approach to High-Quality, Sentiment-Controlled Neural Dialogue Generation, DEEP-DIAL 2019, [[paper]](https://arxiv.org/pdf/1901.07129.pdf)
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 - Building Emotional Conversation Systems Using Multi-task Seq2Seq Learning, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_51)
 - Babbling - The HIT-SCIR System for Emotional Conversation Generation, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53)
