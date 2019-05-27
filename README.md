@@ -12,6 +12,7 @@
 - Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018, [[paper]](http://aclweb.org/anthology/P18-1205)
 - Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0595.pdf)
 - Personalized Dialogue Generation with Diversified Traits, Arxiv, [[paper]](https://arxiv.org/abs/1901.09672)
+- Personalizing Dialogue Agents via Meta-Learning, ACL, 2019, [[paper]](https://arxiv.org/abs/1905.10033)
 
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
