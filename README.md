@@ -13,6 +13,7 @@
 - Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0595.pdf)
 - Personalized Dialogue Generation with Diversified Traits, Arxiv, [[paper]](https://arxiv.org/abs/1901.09672)
 - Personalizing Dialogue Agents via Meta-Learning, ACL, 2019, [[paper]](https://arxiv.org/abs/1905.10033)
+- A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data, AAAI, 2020, [[paper]](https://arxiv.org/abs/1911.04700)
 
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
@@ -29,6 +30,8 @@
 
 ## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
+- Structuring Latent Spaces for Stylized Response Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.05361)
+
 
 ## Task-oriented Dialog
 - User Modeling for Task Oriented Dialogues, SLT-2018, [[paper]](https://arxiv.org/abs/1811.04369)
