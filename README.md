@@ -31,7 +31,7 @@
 ## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
 - Structuring Latent Spaces for Stylized Response Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.05361)
-
+- A Dataset for Low-Resource Stylized Sequence-to-Sequence Generation, AAAI, 2020, [[paper]](https://www.msra.cn/wp-content/uploads/2020/01/A-Dataset-for-Low-Resource-Stylized-Sequence-to-Sequence-Generation.pdf), [[code]](https://github.com/MarkWuNLP/Data4StylizedS2S)
 
 ## Task-oriented Dialog
 - User Modeling for Task Oriented Dialogues, SLT-2018, [[paper]](https://arxiv.org/abs/1811.04369)
