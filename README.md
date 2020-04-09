@@ -16,6 +16,7 @@
 - Personalizing Dialogue Agents via Meta-Learning, ACL, 2019, [[paper]](https://arxiv.org/abs/1905.10033)
 - A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data, AAAI, 2020, [[paper]](https://arxiv.org/abs/1911.04700)
 - Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders, EMNLP, 2019, [[paper]](https://www.aclweb.org/anthology/D19-1201/)
+- Exploiting Persona Information for Diverse Generation of Conversational Responses, IJCAI, 2019, [[paper]](https://www.ijcai.org/Proceedings/2019/0721.pdf)
 
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
