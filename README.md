@@ -31,7 +31,7 @@
 - Affective Neural Response Generation, ECIR-2018, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_12)
 - Automatic Dialogue Generation with Expressed Emotions, NAACL-2018, [[paper]](http://aclweb.org/anthology/N18-2008)
 - An Adversarial Approach to High-Quality, Sentiment-Controlled Neural Dialogue Generation, DEEP-DIAL 2019, [[paper]](https://arxiv.org/pdf/1901.07129.pdf)
-- Emotionally-Aware Chatbots: A Survey, Arxiv 2019, [[paper]](https://arxiv.org/abs/1906.09774)
+- Emotionally-Aware Chatbots: A Survey, IJCAI 2019, [[paper]](https://arxiv.org/abs/1906.09774)
 
 ## Stylized Dialog
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
