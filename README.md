@@ -20,6 +20,8 @@
 - A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation, ECAI, 2020, [[paper]](https://arxiv.org/abs/2002.02153)
 - Learning to Select Knowledge for Response Generation in Dialog Systems, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1902.04911)
 - You Impress Me: Dialogue Generation via Mutual Persona Perception, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.05388.pdf)
+- Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.07672.pdf)
+
 
 ## Emotional Dialog
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
