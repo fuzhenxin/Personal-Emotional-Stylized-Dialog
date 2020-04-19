@@ -1,8 +1,8 @@
-# A Paper List for Controlled Dialog: Personalized, Emotional, and Stylized Dialog
+# A Paper List for Controlled Dialogue: Personalized, Emotional, and Stylized Dialogue
 
 **Keyword:** *personal, persona, style, emotional, sentiment, dialog, conversation, chatbot, generation, Seq2Seq, retrieval, matching*
 
-## Personalized Dialog
+## Personalized Dialogue
 - A Persona-Based Neural Conversation Model, ACL-2016, [[paper]](http://www.aclweb.org/anthology/P16-1094)
 - Exploring Personalized Neural Conversational Models, IJCAI-2017, [[paper]](https://www.ijcai.org/proceedings/2017/0521.pdf)
 - Personalized Response Generation via Domain adaptation, SIGIR-2017 short paper, [[paper]](https://dl.acm.org/citation.cfm?id=3080706)
@@ -23,7 +23,7 @@
 - Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.07672.pdf)
 
 
-## Emotional Dialog
+## Emotional Dialogue
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 - Building Emotional Conversation Systems Using Multi-task Seq2Seq Learning, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_51)
 - Babbling - The HIT-SCIR System for Emotional Conversation Generation, NLPCC-2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53)
@@ -36,14 +36,24 @@
 - An Adversarial Approach to High-Quality, Sentiment-Controlled Neural Dialogue Generation, DEEP-DIAL 2019, [[paper]](https://arxiv.org/pdf/1901.07129.pdf)
 - Emotionally-Aware Chatbots: A Survey, IJCAI 2019, [[paper]](https://arxiv.org/abs/1906.09774)
 
-## Stylized Dialog
+## Stylized Dialogue
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
 - Structuring Latent Spaces for Stylized Response Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.05361)
 - A Dataset for Low-Resource Stylized Sequence-to-Sequence Generation, AAAI, 2020, [[paper]](https://www.msra.cn/wp-content/uploads/2020/01/A-Dataset-for-Low-Resource-Stylized-Sequence-to-Sequence-Generation.pdf), [[code]](https://github.com/MarkWuNLP/Data4StylizedS2S)
 
-## Task-oriented Dialog
+## Task-oriented Dialogue
 - User Modeling for Task Oriented Dialogues, SLT-2018, [[paper]](https://arxiv.org/abs/1811.04369)
 - Learning Personalized End-to-End Goal-Oriented Dialog, AAAI-2019, [[paper]](https://arxiv.org/abs/1811.04604)
+
+## Retrieval-enhanced Dialogue (TODO)
+- Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory
+- A Hybrid Retrieval-Generation Neural Conversation Model
+- An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems
+- Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework
+- Retrieval-Enhanced Adversarial Training for Neural Response Generation
+- EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation
+- Response Generation by Context-Aware Prototype Editing
+- A Retrieve-and-Edit Framework for Predicting Structured Outputs 
 
 ## Evaluation
 - Automatic Evaluation of Neural Personality-based Chatbots, INLG-2018, [[paper]](https://arxiv.org/abs/1810.00472)
