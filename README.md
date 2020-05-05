@@ -35,6 +35,7 @@
 - Automatic Dialogue Generation with Expressed Emotions, NAACL-2018, [[paper]](http://aclweb.org/anthology/N18-2008)
 - An Adversarial Approach to High-Quality, Sentiment-Controlled Neural Dialogue Generation, DEEP-DIAL 2019, [[paper]](https://arxiv.org/pdf/1901.07129.pdf)
 - Emotionally-Aware Chatbots: A Survey, IJCAI 2019, [[paper]](https://arxiv.org/abs/1906.09774)
+- CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation, ACL, 2020, [[paper]](https://arxiv.org/abs/2005.00329)
 
 ## Stylized Dialogue
 - Polite Dialogue Generation Without Parallel Data, TACL-2018, [[paper]](https://transacl.org/ojs/index.php/tacl/article/download/1424/310)
